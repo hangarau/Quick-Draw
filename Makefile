@@ -11,10 +11,11 @@
 #	dist/
 #		linux/
 #			project_name.out
-#		any_other_folders you want/
+#		any_other_operating_systems_you_want/
 #	src/
 #		Main.cpp
 #	Makefile
+#
 # I use this because it's my favourite :)
 
 all: compile
